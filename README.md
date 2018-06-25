@@ -1,1 +1,1 @@
-# polls react-native app
+# polls react-native app with expo
